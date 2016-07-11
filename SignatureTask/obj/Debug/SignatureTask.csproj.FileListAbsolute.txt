@@ -1,0 +1,5 @@
+C:\Users\Алексей\Desktop\veeam\SignatureTask\SignatureTask\bin\Debug\SignatureTask.exe
+C:\Users\Алексей\Desktop\veeam\SignatureTask\SignatureTask\bin\Debug\SignatureTask.pdb
+C:\Users\Алексей\Desktop\veeam\SignatureTask\SignatureTask\obj\Debug\SignatureTask.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\veeam\SignatureTask\SignatureTask\obj\Debug\SignatureTask.exe
+C:\Users\Алексей\Desktop\veeam\SignatureTask\SignatureTask\obj\Debug\SignatureTask.pdb

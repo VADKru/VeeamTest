@@ -1,0 +1,5 @@
+C:\Users\Алексей\Desktop\veeam\SignatureTask\SignatureTask\bin\Release\SignatureTask.exe
+C:\Users\Алексей\Desktop\veeam\SignatureTask\SignatureTask\bin\Release\SignatureTask.pdb
+C:\Users\Алексей\Desktop\veeam\SignatureTask\SignatureTask\obj\Release\SignatureTask.exe
+C:\Users\Алексей\Desktop\veeam\SignatureTask\SignatureTask\obj\Release\SignatureTask.pdb
+C:\Users\Алексей\Desktop\veeam\SignatureTask\SignatureTask\obj\Release\SignatureTask.csprojResolveAssemblyReference.cache
